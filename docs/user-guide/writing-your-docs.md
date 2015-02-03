@@ -104,7 +104,7 @@ To include images in your documentation source files, simply use any of the regu
 
     *Above: Cupcake indexer in progress*
 
-You image will now be embedded when you build the documentation, and should also be previewed if you're working on the documentation with a Markdown editor.
+Your image will now be embedded when you build the documentation and should also be previewed if you're working on the documentation with a Markdown editor.
 
 ## Markdown extensions
 
